@@ -1,3 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "http://tybeard.com/"
 languageCode = "en-us"
-title = "Tellify"
+title = "Tybeard"
+author = "Andrea Bredice"
+copyright = "Copyright © 2020, theme made by Weru and the Hugo Authors; all rights reserved."
+canonifyurls = true
+paginate = 5
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses=true
+pygmentsOptions = "linenos=table"

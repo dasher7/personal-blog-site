@@ -7,9 +7,9 @@ image = 'about.jpg'
 Hello, World!
 
 I am Andrea, 26 y.o. guy from the north of Italy.
-Welcome to Tybeard. What the heck is this?! Let me explain.
+Welcome to Tybearder. What the heck is this?! Let me explain.
 
-Let's begin with the name. It's a fusion between typo and beard, with a little of remind to the word read.
+Let's begin with the name. It's a fusion between typo, beard and reader or writer, depend of the figure you will play, of course I truly hope you can be my reader.
 Why? Well, it's a blog, so I type and you read. And the beard? I've been having a beard since 2010. It's kind of mark to me.
 
 What are you going to find here?

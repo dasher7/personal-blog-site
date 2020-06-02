@@ -10,6 +10,5 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses=true
 pygmentsOptions = "linenos=table"
-disableKinds = ["page", "home", "section", "taxonomyTerm"]
 
 [params]

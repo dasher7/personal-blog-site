@@ -1,6 +1,6 @@
 ---
 title: "Echo of the Silence"
-date: 2020-05-30T13:34:07+02:00
+date: 2020-05-20T13:34:07+02:00
 draft: false
 image: echo.jpg
 ---

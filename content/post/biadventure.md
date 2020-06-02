@@ -1,7 +1,7 @@
 ---
 author: Andrea Bredice
 title: "The Adventure Of Bì: an untold story"
-date: 2020-05-30
+date: 2020-05-01
 image: "adventure.jpg"
 draft: false
 ---

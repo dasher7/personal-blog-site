@@ -1,6 +1,6 @@
 baseURL = "https://tybearder.com/"
 languageCode = "en-us"
-title = "Tybeard"
+title = "Tybearder"
 theme = "newsroom"
 author = "Andrea Bredice"
 copyright = "Copyright © 2020, theme made by Weru and the Hugo Authors; all rights reserved."

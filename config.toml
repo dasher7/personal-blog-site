@@ -15,7 +15,7 @@ pygmentsOptions = "linenos=table"
 
     author               = "Andrea Bredice"
     title                = "Tybearder - type, read and have a beard"
-    sitename             = "Tybearder"
+    sitename             = "Tybearder - type, read and have a beard"
     description          = "Tybearder is a place where I share all the story I type. Storytelling, traveling and artwork, all made by my beard."               # Max 160 characters show in search results
     images               = ["turin.jpg"]
     homepage             = "home"

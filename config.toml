@@ -12,3 +12,17 @@ pygmentsUseClasses=true
 pygmentsOptions = "linenos=table"
 
 [params]
+
+    author               = "Andrea Bredice"
+    title                = "Tybearder - type, read and have a beard"
+    sitename             = "Tybearder"
+    description          = "Tybearder is a place where I share all the story I type. Storytelling, traveling and artwork, all made by my beard."               # Max 160 characters show in search results
+    images               = ["turin.jpg"]
+    homepage             = "home"
+    #og_image = "/images/preview.png"
+    favicon              = "favicon-16x16.png"
+
+    github = "https://github.com/dasher7"
+    facebook = "https://www.facebook.com/andrebredi"
+    twitter = "@andreabredi"
+    instagram = "@andrea_bredice"
